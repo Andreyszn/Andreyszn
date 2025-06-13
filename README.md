@@ -12,12 +12,12 @@ Everything I build or learn is for real. No shortcuts, just putting in the time.
 ## 🧰 Tools & Tech I Like
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Markup-HTML5-informational?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Arch_Linux-informational?style=flat&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markup-HTML5-informational?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform-GitHub-informational?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design-Adobe-informational?style=flat&logo=adobe&logoColor=white" />
 </div>
 
 ---
