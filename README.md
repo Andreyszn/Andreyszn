@@ -9,33 +9,6 @@ Everything I build or learn is for real. No shortcuts, just putting in the time.
 
 ---
 
-## 🎧 What I'm Into
-
-| 🎮 Hobbies          | 🍜 Favorite Food           | 🧥 Style Vibes         |
-|--------------------|----------------------------|------------------------|
-| Gaming, Coding     | Cordon Bleu, Sushi         | Streetwear, Hoodies    |
-| Anime, Music       | Ramen, Sandwiches          | Sneakers, Casual       |
-
----
-
-## 📍 Favorite Spots
-
-| 🌆 Place            | 💬 Why I Love It                         |
-|--------------------|------------------------------------------|
-| Monteverde         | That cool, peaceful weather 🌬️           |
-| Mall Oxígeno       | Sneaker & streetwear heaven 🛍️           |
-| My Room            | Best place to chill, period 🛏️           |
-
----
-
-## 📞 Hit Me Up
-
-| 📧 Email                         |  💬 Discord           |
-|-----------------------------------|-----------------------|
-| andrey.sotovargas@ucr.ac.cr       | Alreadyintheheaven    |
-
----
-
 ## 🧰 Tools & Tech I Like
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
@@ -49,10 +22,10 @@ Everything I build or learn is for real. No shortcuts, just putting in the time.
 
 ---
 
-## 📈 GitHub Stats (if you want to add)
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andreyszn&show_icons=true&theme=radical" />
 </p>
 
 ---
