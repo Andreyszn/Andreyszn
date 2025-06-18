@@ -5,7 +5,7 @@
 I might take a bit to get started, but once I'm locked in, I go all-in.  
 Focused, chill, and always trying to level up — whether it's through coding, catching a vibe with music, or grinding games late at night.
 
-Everything I build or learn is for real. No shortcuts, just putting in the time.
+
 
 ---
 
